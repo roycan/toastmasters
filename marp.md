@@ -36,7 +36,7 @@ Area A, Division B, TMI
 
 <div class="w3-right">
 
-![w:50 ](/img/pshs.png)
+![w:100 ](/img/TMI.jpg)
 
 </div>
 
@@ -54,7 +54,7 @@ Embracing Smedley's ideals while preserving Sultan traditions of excellence and 
 ---
 
 <!-- _footer: - -->
-![bg right](img/robot_teacher.png)
+![bg right](img/roots.png)
 
 <div class="w3-xxlarge w3-uppercase">
 
@@ -68,7 +68,10 @@ Embracing Smedley's ideals while preserving Sultan traditions of excellence and 
 
 <br>
 
-##### Roy Canseco and Ronnie Canseco
+# ____  
+
+
+##### Roy Canseco  & Ronnie Canseco
 
 
 
@@ -109,6 +112,8 @@ timeline
 </div>
 
 ---
+
+![bg right:45%](img/members.jpg)
 
 # Vision
 
@@ -172,8 +177,7 @@ xychart-beta
 
 ---
 
-# _
-
+![bg left:40%](img/time_chase.png)
 
 <div class="w3-xxxlarge">
 
@@ -195,6 +199,8 @@ xychart-beta
 
 ---
 
+![bg left:45%](img/bida.jpg)
+
 # Share stories of impact
 
 * We always encourage including personal experiences in speeches to foster authentic connection to the audience
@@ -215,6 +221,8 @@ xychart-beta
 
 
 ---
+
+![bg right:45%](img/juggle.png)
 
 # We can try to provide for concerns
 
@@ -251,6 +259,9 @@ xychart-beta
 
 ---
 
+![bg right:60%](img/AI_hero.jpg)
+
+
 # Zooming with A.I.
 
 * Hybrid meetings won't go away. How about F2F once a month while jointly celebrating birthdays? 
@@ -270,7 +281,7 @@ xychart-beta
 
 ---
 
-![bg left:45%](img/smiley.png)
+![bg left:45%](img/dad_and_me.jpg)
 
 
 <div class="w3-xxxlarge">
