@@ -28,11 +28,11 @@ footer:  &copy; <span class="w3-center"> Canseco 2024 </span>
 </div>
 
 <hr>
-<p class="w3-text-deep-orange w3-bold"> Presented By:
+<p class="w3-text-deep-orange w3-bold"> Prepared By:
 </p>
-Roy Vincent L. Canseco, MSEE, PhD Cand. CS <br>
-Computer Science Unit /  MIS <br>
-Philippine Science High School - Main Campus
+Roy Canseco and Ronnie Canseco<br>
+Sultan Toastmasters Club <br>
+Area A, Division B, TMI
 
 <div class="w3-right">
 
@@ -44,6 +44,251 @@ Philippine Science High School - Main Campus
 
 
 
+# Talk Description
+
+In this talk, we explore three crucial lessons derived from Smedley's approach: the importance of a reliable structure for members, the value of imparting skills and knowledge for member success, and the creation of a safe environment within Sultan Toastmasters for skill enhancement. 
+
+Embracing Smedley's ideals while preserving Sultan traditions of excellence and camaraderie is paramount in fostering a supportive and growth-oriented environment for members.
+
+
+---
+
+<!-- _footer: - -->
+![bg right](img/robot_teacher.png)
+
+<div class="w3-xxlarge w3-uppercase">
+
+# Return to Roots
+
+</div>
+
+### Sultan Toastmasters 
+
+#### June 2024
+
+<br>
+
+##### Roy Canseco and Ronnie Canseco
+
+
+
+---
+
+
+# TMI History
+
+
+<div class="mermaid w3-center">
+timeline
+    1905 - 1935 : Vision and Creation by Raplh Smedley
+    1936 - 1958 : Structure
+    : focus on communication and leadership 
+    1959 -1977 : TMI gets recognition
+    : Awards, accolades, achievements
+    : Proven impact on members' personal growth
+    1978 - 2008 : Worldwide expansion
+    : catering to a global audience
+    2008 - present : Embracing the digital  age
+    : catering to a modern audience
+</div>
+
+
+<!-- we can take inspiration from the TMI's path to success in order to fashion our own -->
+
+
+---
+
+
+<div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
+  <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">01</p>
+</div>
+
+
+<div class="w3-display-middle w3-jumbo">
+  Vision
+</div>
+
+---
+
+# Vision
+
+* To have Zero membership problems
+* To have new members wanting to come back because of the impact and benefit of the club in their personal development
+* To have senior and core members get fulfilled from their continuous improvement and from making a difference in the lives of others
+
+---
+
+<div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
+  <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">02</p>
+</div>
+
+
+<div class="w3-display-middle w3-jumbo">
+  Structure 
+</div>
+
+
+---
+
+# Flexible Structure
+
+* TMI meetings are expected to last 1-2 hours, with most lasting 1-1.5 hours. 
+* Prospects and new members appreciate the minimal time commitment.
+* the core meeting can be table topics, prepared speeches and evaluations
+* we can have a pre-meeting (like a front act band) with the word of the day and the light moments
+* we can have a post-meeting (like a business meeting) with lateral evaluations, planning, socials
+
+
+
+---
+
+<div class="w3-row">
+<div class="w3-col s8">
+
+<div class="mermaid">
+
+xychart-beta 
+    title "Segment Time Estimates"
+    x-axis ["opening", "table topics", "speeches", "Eval" , "closing"]
+    y-axis "Time (in minues)" 0 --> 30
+    bar [10, 20, 30, 20, 10]
+    line [10, 20, 30, 20, 10]
+
+</div>
+</div>
+<div class="w3-col s4">
+
+| Toastmasters Meeting | Time Range (min) |
+|---------------------------------|------------|
+| Opening and Introductions     | 5-10  |
+| Table Topics                    | 10-20  |
+| Prepared Speeches               | 15-30  |
+| Evaluations                     | 15-25  |
+| Closing and Announcements          | 5-10  |
+
+
+</div>
+
+
+---
+
+# _
+
+
+<div class="w3-xxxlarge">
+
+> By keeping the core meeting within **90 minutes**, we can have a non-threatening time commitment  offering for new members and guests.  :)
+
+</div>
+
+---
+
+<div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
+  <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">03</p>
+</div>
+
+
+<div class="w3-display-middle w3-jumbo">
+  Impact 
+</div>
+
+
+---
+
+# Share stories of impact
+
+* We always encourage including personal experiences in speeches to foster authentic connection to the audience
+* We all know of situations that could be improved or fixed with good communication or leadership
+* We can share personal wins through communication and leadership  
+
+---
+
+
+<div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
+  <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">04</p>
+</div>
+
+
+<div class="w3-display-middle w3-jumbo">
+  Inclusiveness 
+</div>
+
+
+---
+
+# We can try to provide for concerns
+
+* some people can't stay for 2++ hours per meeting at this point in their life
+* some people can't do a weekly meeting with preparations
+* some people have a seasonal pattern of very busy months followed by more relaxed and free months
+* some people can't pay full price every 6 months
+
+
+---
+
+# _
+
+
+<div class="w3-xxxlarge">
+
+> By figuring out ways for the club to create impact in the lives of new members and guests with their current resources (time, talent, treasure), they'll stay. Or if they go, they'll come back when they can.
+
+</div>
+
+---
+
+
+
+<div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
+  <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">05</p>
+</div>
+
+
+<div class="w3-display-middle w3-jumbo">
+  Modernizing 
+</div>
+
+
+---
+
+# Zooming with A.I.
+
+* Hybrid meetings won't go away. How about F2F once a month while jointly celebrating birthdays? 
+* AI isn't coming, it's here. How about assuming it's in play baseline while learning to put it to use?
+
+---
+
+
+# In summary
+
+* We want the club to live with happy members who come back, stay and pay. 
+* We want to flex our structure to accommodate more such new members
+* We want to figure out how deliver and acknowledge value and impact
+* We want to accommodate individual circumstances into club expectations 
+* We want to continue to evolve and be relevant in a world of hybrid meetings and A.I
+
+
+---
+
+![bg left:45%](img/smiley.png)
+
+
+<div class="w3-xxxlarge">
+
+# Thanks!
+
+### Do you have any questions?
+
+#### __
+
+roy@pshs.edu.ph
+
+</div>
+
+
+---
+
+---
 
 <div class="w3-row">
 <div class="w3-col s8">
@@ -80,60 +325,6 @@ CS Teacher , MIS - PSHS-MC
 
 
 
-# Talk Description
-
-In this talk, we explore three crucial lessons derived from Smedley's approach: the importance of a reliable structure for members, the value of imparting skills and knowledge for member success, and the creation of a safe environment within Sultan Toastmasters for skill enhancement. 
-
-Embracing Smedley's ideals while preserving Sultan traditions of excellence and camaraderie is paramount in fostering a supportive and growth-oriented environment for members.
-
-
----
-
-<!-- _footer: - -->
-![bg right](img/robot_teacher.png)
-
-<div class="w3-xxlarge w3-uppercase">
-
-# Return to Roots
-
-</div>
-
-### Sultan Toastmasters 
-
-#### June 2024
-
-<br>
-
-##### Roy Vincent L. Canseco
-
-
-
----
-
-
-# Talk Outline
-
-
-<div class="mermaid w3-center">
-timeline
-    1905 - 1935 : Vision and Creation by Raplh Smedley
-    1936 - 1958 : Structure
-    : focus on communication and leadership 
-    1959 -1977 : TMI gets recognition
-    : Awards, accolades, achievements
-    : Proven impact on members' personal growth
-    1978 - 2008 : Worldwide expansion
-    : catering to a global audience
-    2008 - present : Embracing the digital  age
-    : catering to a modern audience
-</div>
-
-
-<!-- ask the participants what they think are the biggest problems with teaching CS-->
-
-
----
-
 <!-- _footer: _ -->
 <!-- paginate: true -->
 
@@ -156,7 +347,7 @@ According to a study funded by Google, under the direction of ACM, and in partne
 
 ---
 
-![bg right:15%](img/bg.png)
+
 
 <div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
   <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">01</p>
