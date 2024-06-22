@@ -32,7 +32,7 @@ footer:  &copy; <span class="w3-center"> Canseco 2024 </span>
 </p>
 Roy Canseco and Ronnie Canseco<br>
 Sultan Toastmasters Club <br>
-Area A, Division B, TMI
+Area A, Division A, TMI
 
 <div class="w3-right">
 
@@ -147,19 +147,14 @@ timeline
 
 ---
 
+## Time breakdown suggestion
+
 <div class="w3-row">
 <div class="w3-col s8">
 
-<div class="mermaid">
+![w:700](img/time-graph.png)
 
-xychart-beta 
-    title "Segment Time Estimates"
-    x-axis ["opening", "table topics", "speeches", "Eval" , "closing"]
-    y-axis "Time (in minues)" 0 --> 30
-    bar [10, 20, 30, 20, 10]
-    line [10, 20, 30, 20, 10]
 
-</div>
 </div>
 <div class="w3-col s4">
 
@@ -224,7 +219,7 @@ xychart-beta
 
 ![bg right:45%](img/juggle.png)
 
-# We can try to provide for concerns
+# We can recognize concerns more
 
 * some people can't stay for 2++ hours per meeting at this point in their life
 * some people can't do a weekly meeting with preparations
@@ -668,23 +663,7 @@ http://xxx.xxx.xxx.101
 
 ---
 
-![bg left:45%](img/smiley.png)
 
-
-<div class="w3-xxxlarge">
-
-# Thanks!
-
-### Do you have any questions?
-
-#### __
-
-roy@pshs.edu.ph
-
-</div>
-
-
----
 
 
 # Resources
