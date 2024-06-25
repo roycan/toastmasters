@@ -13,6 +13,8 @@ footer:  &copy; <span class="w3-center"> Canseco 2024 </span>
 
 
 
+![bg right:10%](img/bg.png)
+
 
 <!-- _footer: - -->
 
@@ -43,6 +45,15 @@ Area A, Division A, TMI
 ---
 
 
+<div class="w3-row">
+
+<div class="w3-col s5 w3-padding-64 ">
+
+![w:400px](img/QR.png)
+</div>
+
+
+<div class="w3-col s7">
 
 # Talk Description
 
@@ -50,6 +61,10 @@ In this talk, we explore three crucial lessons derived from Smedley's approach: 
 
 Embracing Smedley's ideals while preserving Sultan traditions of excellence and camaraderie is paramount in fostering a supportive and growth-oriented environment for members.
 
+</div>
+
+
+</div>
 
 ---
 
@@ -135,6 +150,10 @@ timeline
 
 ---
 
+
+![bg right:10%](img/bg.png)
+
+
 # Flexible Structure
 
 * TMI meetings are expected to last 1-2 hours, with most lasting 1-1.5 hours. 
@@ -172,7 +191,9 @@ timeline
 
 ---
 
+
 ![bg left:40%](img/time_chase.png)
+
 
 <div class="w3-xxxlarge">
 
@@ -229,6 +250,9 @@ timeline
 
 ---
 
+
+![bg right:10%](img/bg.png)
+
 # _
 
 
@@ -263,6 +287,9 @@ timeline
 * AI isn't coming, it's here. How about assuming it's in play baseline while learning to put it to use?
 
 ---
+
+
+![bg right:10%](img/bg.png)
 
 
 # In summary
