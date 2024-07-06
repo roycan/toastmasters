@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: marp-w3
-footer:  &copy; <span class="w3-center"> Canseco 2024 </span>
+footer:  Sultan TY 2024-2025
 
 ---
 
@@ -13,53 +13,61 @@ footer:  &copy; <span class="w3-center"> Canseco 2024 </span>
 
 
 
-![bg right:10%](img/bg.png)
+
+![bg](img/TM-100years-2.gif)
 
 
-<!-- _footer: - -->
+<!-- _footer: ![w:100 ](/img-members/TMI.jpg) TMI District 75, Division A, Area 1 -->
 
 
 <div style="height: 40vh">
 
-# Return to Roots 
+**Sultan 
+Toastmasters Club**
 
-### *Using Ralph Smedley's techniques to maintain membership*
+*Chartered 
+April 1, 1981*
 
-<!-- sub sub title: Super Sulit Server Setup with Linode Akamai (and Nephila)   -->
-
-</div>
-
-<hr>
-<p class="w3-text-deep-orange w3-bold"> Prepared By:
-</p>
-Roy Canseco and Ronnie Canseco<br>
-Sultan Toastmasters Club <br>
-Area A, Division A, TMI
-
-<div class="w3-right">
-
-![w:100 ](/img/TMI.jpg)
 
 </div>
+
+
+
 
 ---
+
+![bg right:10%](img/bg.png)
 
 
 <div class="w3-row">
 
-<div class="w3-col s5 w3-padding-64 ">
+<div class="w3-col s5 w3-padding">
 
-![w:400px](img/QR.png)
+# Purpose
+
+To have fun and flexible Toastmaster meetings
+
+# Values
+
+1. Family-orientedness
+2. Committment to Excellence
+3. Cooperation 
+4. Open-mindedness
+
 </div>
 
+<div class="w3-col s7 w3-padding">
 
-<div class="w3-col s7">
 
-# Talk Description
 
-In this talk, we explore three crucial lessons derived from Smedley's approach: the importance of a reliable structure for members, the value of imparting skills and knowledge for member success, and the creation of a safe environment within Sultan Toastmasters for skill enhancement. 
+# Vision
 
-Embracing Smedley's ideals while preserving Sultan traditions of excellence and camaraderie is paramount in fostering a supportive and growth-oriented environment for members.
+To be the Club of the Future, leading in developing the best communicators and leaders in their respective fields
+
+# Mission
+
+To provide a supportive and positive learning experience that empowers members to communicate and lead, resulting in  self-confidence and personal growth.
+
 
 </div>
 
@@ -69,45 +77,42 @@ Embracing Smedley's ideals while preserving Sultan traditions of excellence and 
 ---
 
 <!-- _footer: - -->
-![bg right](img/roots.png)
+![bg right](img/sultan-zoom.jpg)
 
 <div class="w3-xxlarge w3-uppercase">
 
-# Return to Roots
+# Sultan Toastmasters Club
 
 </div>
 
-### Sultan Toastmasters 
+### Chartered April 1, 1981
 
-#### June 2024
+#### TY 2024-2025
 
 <br>
 
 # ____  
 
 
-##### Roy Canseco  & Ronnie Canseco
+##### Meetings every Tuesday via Zoom&trade;
 
 
 
 ---
 
 
-# TMI History
+# Officers ***July 2024 -June 2025***
 
 
 <div class="mermaid w3-center">
 timeline
-    1905 - 1935 : Vision and Creation by Raplh Smedley
-    1936 - 1958 : Structure
-    : focus on communication and leadership 
-    1959 -1977 : TMI gets recognition
-    : Awards, accolades, achievements
-    : Proven impact on members' personal growth
-    1978 - 2008 : Worldwide expansion
-    : catering to a global audience
-    2008 - present : Embracing the digital  age
-    : catering to a modern audience
+    President : Roy Canseco
+    Vice Presidents : VP-Ed Menchie	Borbon
+    : VP-Mem Pinky	San Andres
+    : VP-PR Clarice	Medallo
+    Secretary: IPP Elsa	Sabularse
+    Treasurer: MVP Linda Navarro
+    Sergent-at-arms : Mike Alununa
 </div>
 
 
@@ -116,6 +121,89 @@ timeline
 
 ---
 
+![bg right](img/flag.jpeg)
+
+# [Pledge of Allegiance](TM-flag_allegiance.mp3)
+
+
+I pledge my allegiance
+To the flag of my country
+And to the government for which it stands
+With honor, justice and freedom
+One Nation under God, 
+indivisible, with justice, liberty 
+and democracy for all
+
+
+---
+# [Toastmaster’s Promise](TM-promise.mp3)
+
+<div class="w3-center">
+
+![](img/sultan-wp.jpg)
+
+</div>
+As a member of Sultan Toastmasters Club, I promise to attend meetings regularly;
+prepare all my speeches, fulfill meeting assignments, provide helpful evaluations, 
+help the club maintain positive and friendly climate; 
+serve my club when called upon to do so; 
+bring guests to the club, and maintain honest and high ethical standards. 
+
+
+---
+
+
+
+## ***Speech Patterns***
+
+<div class="w3-row">
+<div class="w3-col s7 ">
+
+### PREP
+P- POINT (arresting introduction )  
+
+R- REASON  (explain by giving reasons)   
+
+E- EXAMPLES    
+
+P- POINT (restate your point, call to  action,       
+give a message, summarize points) 
+
+### Story-Message-Gain
+S - Story
+M - Message 
+G - Gain/moral of the story 
+
+</div>
+<div class="w3-col s5 w3-padding">
+
+
+
+### AIDA
+A– Attention,
+I   - Interest, 
+D  - Desire
+A  - Action
+
+### Other techniques
+
+* Advantage/Disadvantages  
+* PPF:  Past/Present /Future
+* Compare and Contrast 
+* Cause and Effect
+
+</div>
+</div>
+
+---
+
+<div class="w3-center">
+
+![h:600px w:1000px](img/program.png)
+
+</div>
+
+---
 
 <div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
   <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">01</p>
@@ -128,7 +216,7 @@ timeline
 
 ---
 
-![bg right:45%](img/members.jpg)
+![bg right:45%](img-members/members.jpg)
 
 # Vision
 
@@ -151,7 +239,7 @@ timeline
 ---
 
 
-![bg right:10%](img/bg.png)
+![bg right:10%](img-members/bg.png)
 
 
 # Flexible Structure
@@ -171,7 +259,7 @@ timeline
 <div class="w3-row">
 <div class="w3-col s8">
 
-![w:700](img/time-graph.png)
+![w:700](img-members/time-graph.png)
 
 
 </div>
@@ -192,7 +280,7 @@ timeline
 ---
 
 
-![bg left:40%](img/time_chase.png)
+![bg left:40%](img-members/time_chase.png)
 
 
 <div class="w3-xxxlarge">
@@ -215,7 +303,7 @@ timeline
 
 ---
 
-![bg left:45%](img/bida.jpg)
+![bg left:45%](img-members/bida.jpg)
 
 # Share stories of impact
 
@@ -238,7 +326,7 @@ timeline
 
 ---
 
-![bg right:45%](img/juggle.png)
+![bg right:45%](img-members/juggle.png)
 
 # We can recognize concerns more
 
@@ -251,7 +339,7 @@ timeline
 ---
 
 
-![bg right:10%](img/bg.png)
+![bg right:10%](img-members/bg.png)
 
 # _
 
@@ -278,7 +366,7 @@ timeline
 
 ---
 
-![bg right:60%](img/AI_hero.jpg)
+![bg right:60%](img-members/AI_hero.jpg)
 
 
 # Zooming with A.I.
@@ -289,7 +377,7 @@ timeline
 ---
 
 
-![bg right:10%](img/bg.png)
+![bg right:10%](img-members/bg.png)
 
 
 # In summary
@@ -303,7 +391,7 @@ timeline
 
 ---
 
-![bg left:45%](img/dad_and_me.jpg)
+![bg left:45%](img-members/dad_and_me.jpg)
 
 
 <div class="w3-xxxlarge">
@@ -339,7 +427,7 @@ Currently, I am teaching at Philippine Science High School - Main Campus, where 
 </div>
 <div class="w3-col s4 w3-center">
 
-![w:300](img/roynette.png)
+![w:300](img-members/roynette.png)
 
 <hr>
 
@@ -361,7 +449,7 @@ CS Teacher , MIS - PSHS-MC
 <!-- _footer: _ -->
 <!-- paginate: true -->
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 According to a study funded by Google, under the direction of ACM, and in partnership with Microsoft:
 <br>
@@ -394,7 +482,7 @@ According to a study funded by Google, under the direction of ACM, and in partne
 
 ---
 
-![bg opacity](img/kids.jpg)
+![bg opacity](img-members/kids.jpg)
 
 <div class="w3-row"> 
   <div class="w3-col s3">
@@ -438,7 +526,7 @@ mindmap
 ---
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 <div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
   <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">02</p>
@@ -480,7 +568,7 @@ personal sharing with AI-gen exams and solutions -->
 
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 <div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
   <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">03</p>
@@ -500,7 +588,7 @@ personal sharing with AI-gen exams and solutions -->
 
 
 
-![bg left:25%](img/lightbulb-student.png)
+![bg left:25%](img-members/lightbulb-student.png)
 
 # VPL Setup and Use
 
@@ -514,7 +602,7 @@ personal sharing with AI-gen exams and solutions -->
 
 ## VPL Plugin
 
-![bg right:70%](img/vpl-plugin.png)
+![bg right:70%](img-members/vpl-plugin.png)
 
 * Program in the browser.
 * Run tests to grade the programs.
@@ -529,7 +617,7 @@ personal sharing with AI-gen exams and solutions -->
 
 # Getting VPL-Jail-System
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 
 1. Enter your server 
@@ -545,7 +633,7 @@ personal sharing with AI-gen exams and solutions -->
 
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 <div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
   <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">04</p>
@@ -562,7 +650,7 @@ personal sharing with AI-gen exams and solutions -->
 
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 # Tips for installing for the first time: 
 
@@ -594,7 +682,7 @@ cd vpl-jail-system-4.0.2
 
 ---
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 # What it means:
 # -
@@ -608,7 +696,7 @@ cd vpl-jail-system-4.0.2
 ---
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 
 # Automating daily VPL service restart
@@ -626,7 +714,7 @@ cd vpl-jail-system-4.0.2
 
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 # Automatically restart the server weekly
 
@@ -641,7 +729,7 @@ cd vpl-jail-system-4.0.2
 
 ---
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 # Automatically reinstall the VPL jail system monthly
 
@@ -659,7 +747,7 @@ cd vpl-jail-system-4.0.2
 
 ---
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 # Add the server address to your list of VPL Execution servers
 
@@ -674,13 +762,13 @@ http://xxx.xxx.xxx.101
 
 <div class="w3-center">
 
-![](img/server_list.png)
+![](img-members/server_list.png)
 
 </div>
 
 ---
 
-![bg right:35%](img/cs-class.png)
+![bg right:35%](img-members/cs-class.png)
 
 <div class="w3-display-middle">
 
@@ -704,7 +792,7 @@ http://xxx.xxx.xxx.101
 
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 <div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
   <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">0X</p>
