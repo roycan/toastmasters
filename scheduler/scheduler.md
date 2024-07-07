@@ -129,7 +129,7 @@ This will also serve as partial fulfillment of the requirements for the Evaluati
 
 
 
-# Officers ***July 2024 -June 2025***
+# How the scheduler works
 
 
 <div class="mermaid w3-center">
