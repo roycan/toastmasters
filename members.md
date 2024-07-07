@@ -13,7 +13,7 @@ footer:  &copy; <span class="w3-center"> Canseco 2024 </span>
 
 
 
-![bg right:10%](img/bg.png)
+![bg right:10%](img-members/bg.png)
 
 
 <!-- _footer: - -->
@@ -38,7 +38,7 @@ Area A, Division A, TMI
 
 <div class="w3-right">
 
-![w:100 ](/img/TMI.jpg)
+![w:100 ](/img-members/TMI.jpg)
 
 </div>
 
@@ -49,7 +49,7 @@ Area A, Division A, TMI
 
 <div class="w3-col s5 w3-padding-64 ">
 
-![w:400px](img/QR.png)
+![w:400px](img-members/QR.png)
 </div>
 
 
@@ -69,7 +69,7 @@ Embracing Smedley's ideals while preserving Sultan traditions of excellence and 
 ---
 
 <!-- _footer: - -->
-![bg right](img/roots.png)
+![bg right](img-members/roots.png)
 
 <div class="w3-xxlarge w3-uppercase">
 
@@ -128,7 +128,7 @@ timeline
 
 ---
 
-![bg right:45%](img/members.jpg)
+![bg right:45%](img-members/members.jpg)
 
 # Vision
 
@@ -151,7 +151,7 @@ timeline
 ---
 
 
-![bg right:10%](img/bg.png)
+![bg right:10%](img-members/bg.png)
 
 
 # Flexible Structure
@@ -171,7 +171,7 @@ timeline
 <div class="w3-row">
 <div class="w3-col s8">
 
-![w:700](img/time-graph.png)
+![w:700](img-members/time-graph.png)
 
 
 </div>
@@ -192,7 +192,7 @@ timeline
 ---
 
 
-![bg left:40%](img/time_chase.png)
+![bg left:40%](img-members/time_chase.png)
 
 
 <div class="w3-xxxlarge">
@@ -215,7 +215,7 @@ timeline
 
 ---
 
-![bg left:45%](img/bida.jpg)
+![bg left:45%](img-members/bida.jpg)
 
 # Share stories of impact
 
@@ -238,7 +238,7 @@ timeline
 
 ---
 
-![bg right:45%](img/juggle.png)
+![bg right:45%](img-members/juggle.png)
 
 # We can recognize concerns more
 
@@ -251,7 +251,7 @@ timeline
 ---
 
 
-![bg right:10%](img/bg.png)
+![bg right:10%](img-members/bg.png)
 
 # _
 
@@ -278,7 +278,7 @@ timeline
 
 ---
 
-![bg right:60%](img/AI_hero.jpg)
+![bg right:60%](img-members/AI_hero.jpg)
 
 
 # Zooming with A.I.
@@ -289,7 +289,7 @@ timeline
 ---
 
 
-![bg right:10%](img/bg.png)
+![bg right:10%](img-members/bg.png)
 
 
 # In summary
@@ -303,7 +303,7 @@ timeline
 
 ---
 
-![bg left:45%](img/dad_and_me.jpg)
+![bg left:45%](img-members/dad_and_me.jpg)
 
 
 <div class="w3-xxxlarge">
@@ -339,7 +339,7 @@ Currently, I am teaching at Philippine Science High School - Main Campus, where 
 </div>
 <div class="w3-col s4 w3-center">
 
-![w:300](img/roynette.png)
+![w:300](img-members/roynette.png)
 
 <hr>
 
@@ -361,7 +361,7 @@ CS Teacher , MIS - PSHS-MC
 <!-- _footer: _ -->
 <!-- paginate: true -->
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 According to a study funded by Google, under the direction of ACM, and in partnership with Microsoft:
 <br>
@@ -394,7 +394,7 @@ According to a study funded by Google, under the direction of ACM, and in partne
 
 ---
 
-![bg opacity](img/kids.jpg)
+![bg opacity](img-members/kids.jpg)
 
 <div class="w3-row"> 
   <div class="w3-col s3">
@@ -438,7 +438,7 @@ mindmap
 ---
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 <div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
   <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">02</p>
@@ -480,7 +480,7 @@ personal sharing with AI-gen exams and solutions -->
 
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 <div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
   <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">03</p>
@@ -500,7 +500,7 @@ personal sharing with AI-gen exams and solutions -->
 
 
 
-![bg left:25%](img/lightbulb-student.png)
+![bg left:25%](img-members/lightbulb-student.png)
 
 # VPL Setup and Use
 
@@ -514,7 +514,7 @@ personal sharing with AI-gen exams and solutions -->
 
 ## VPL Plugin
 
-![bg right:70%](img/vpl-plugin.png)
+![bg right:70%](img-members/vpl-plugin.png)
 
 * Program in the browser.
 * Run tests to grade the programs.
@@ -529,7 +529,7 @@ personal sharing with AI-gen exams and solutions -->
 
 # Getting VPL-Jail-System
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 
 1. Enter your server 
@@ -545,7 +545,7 @@ personal sharing with AI-gen exams and solutions -->
 
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 <div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
   <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">04</p>
@@ -562,7 +562,7 @@ personal sharing with AI-gen exams and solutions -->
 
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 # Tips for installing for the first time: 
 
@@ -594,7 +594,7 @@ cd vpl-jail-system-4.0.2
 
 ---
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 # What it means:
 # -
@@ -608,7 +608,7 @@ cd vpl-jail-system-4.0.2
 ---
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 
 # Automating daily VPL service restart
@@ -626,7 +626,7 @@ cd vpl-jail-system-4.0.2
 
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 # Automatically restart the server weekly
 
@@ -641,7 +641,7 @@ cd vpl-jail-system-4.0.2
 
 ---
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 # Automatically reinstall the VPL jail system monthly
 
@@ -659,7 +659,7 @@ cd vpl-jail-system-4.0.2
 
 ---
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 # Add the server address to your list of VPL Execution servers
 
@@ -674,13 +674,13 @@ http://xxx.xxx.xxx.101
 
 <div class="w3-center">
 
-![](img/server_list.png)
+![](img-members/server_list.png)
 
 </div>
 
 ---
 
-![bg right:35%](img/cs-class.png)
+![bg right:35%](img-members/cs-class.png)
 
 <div class="w3-display-middle">
 
@@ -704,7 +704,7 @@ http://xxx.xxx.xxx.101
 
 
 
-![bg right:15%](img/bg.png)
+![bg right:15%](img-members/bg.png)
 
 <div class="w3-container w3-black w3-center" style="position: absolute; top: 50; left: 50;">
   <p class="w3-text-white" style="font-size: 50px; font-family: 'Courier New', monospace;">0X</p>

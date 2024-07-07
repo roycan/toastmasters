@@ -14,10 +14,10 @@ footer:  Sultan TY 2024-2025
 
 
 
-![bg](img/TM-100years-2.gif)
+![bg](img-sched/TM-100years-2.gif)
 
 
-<!-- _footer: ![w:100 ](/img-members/TMI.jpg) TMI District 75, Division A, Area 1 -->
+<!-- _footer: ![w:100 ](/img-sched-members/TMI.jpg) TMI District 75, Division A, Area 1 -->
 
 
 <div style="height: 40vh">
@@ -34,19 +34,11 @@ April 1, 1981*
 
 ---
 
-<div class="w3-center">
-
-![h:600px w:1000px](img/program.png)
-
-</div>
-
-
----
 
 
 
 <!-- _footer: - -->
-![bg right](img/sultan-zoom.jpg)
+![bg right](img-sched-sched/sultan-zoom.jpg)
 
 <div class="w3-xxlarge w3-uppercase">
 
@@ -71,7 +63,7 @@ April 1, 1981*
 
 
 
-![bg right:10%](img/bg.png)
+![bg right:10%](img-sched/bg.png)
 
 
 <div class="w3-row">
@@ -109,7 +101,7 @@ To provide a supportive and positive learning experience that empowers members t
 
 ---
 
-![bg right:10%](img/bg.png)
+![bg right:10%](img-sched/bg.png)
 
 # History 
 
@@ -142,7 +134,7 @@ timeline
 
 ---
 
-![bg right](img/flag.jpeg)
+![bg right](img-sched/flag.jpeg)
 
 <button>
 
@@ -172,7 +164,7 @@ and democracy for all
 
 <div class="w3-center">
 
-![](img/sultan-wp.jpg)
+![](img-sched/sultan-wp.jpg)
 
 </div>
 As a member of Sultan Toastmasters Club, I promise to attend meetings regularly;
