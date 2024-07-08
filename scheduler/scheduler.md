@@ -17,7 +17,7 @@ footer:  Sultan TY 2024-2025
 ![bg](img-sched/TM-100years-2.gif)
 
 
-<!-- _footer: ![w:100 ](/img-members/TMI.jpg) TMI District 75, Division A, Area 1 -->
+<!-- _footer: ![w:100](img-sched/TMI.jpg) TMI District 75, Division A, Area 1 -->
 
 
 <div style="height: 40vh">
