@@ -131,21 +131,9 @@ This will also serve as partial fulfillment of the requirements for the Evaluati
 
 # How the scheduler works
 
+![alt text](image.png)
 
-<div class="mermaid w3-center">
-timeline
-    Members : update your data
-    : update others' data
-    Themes : put a theme you deeply care about
-    : consider putting another theme
-    : add your names if willing to TME
-    Schedule: Let's fill this up
-    : Tentative is ok
-    : If not available, fill-in a replacement
-    Program: Automatically generated
-    : to be copy-pasted to the chat
-    Other sheets : Feel free to put important stuff
-</div>
+
 
 
 ---
@@ -382,3 +370,21 @@ timeline
 </div>
 
 
+---
+
+---
+
+<div class="mermaid w3-center">
+timeline
+    Members : update your data
+    : update others' data
+    Themes : put a theme you deeply care about
+    : consider putting another theme
+    : add your names if willing to TME
+    Schedule: Let's fill this up
+    : Tentative is ok
+    : If not available, fill-in a replacement
+    Program: Automatically generated
+    : to be copy-pasted to the chat
+    Other sheets : Feel free to put important stuff
+</div>
