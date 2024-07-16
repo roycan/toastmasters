@@ -14,10 +14,12 @@ footer:  Sultan TY 2024-2025
 
 
 
-![bg](img-sched/TM-100years-2.gif)
+<!-- ![bg](img/TM-100years-2.gif) -->
+
+![bg](img/lightbulb-student.png)
 
 
-<!-- _footer: ![w:100 ](/img-sched-members/TMI.jpg) TMI District 75, Division A, Area 1 -->
+<!-- _footer: ![w:100 ](/img/TMI.jpg) TMI District 75, Division A, Area 1 -->
 
 
 <div style="height: 40vh">
@@ -25,8 +27,8 @@ footer:  Sultan TY 2024-2025
 **Sultan 
 Toastmasters Club**
 
-*Chartered 
-April 1, 1981*
+Chartered 
+#### April 1, 1981
 
 
 </div>
@@ -34,11 +36,16 @@ April 1, 1981*
 
 ---
 
+<!-- _footer: _ -->
+
+![w:1000px](img/program.png)
+
+---
 
 
 
 <!-- _footer: - -->
-![bg right](img-sched-sched/sultan-zoom.jpg)
+![bg right](img/sultan-zoom.jpg)
 
 <div class="w3-xxlarge w3-uppercase">
 
@@ -63,7 +70,7 @@ April 1, 1981*
 
 
 
-![bg right:10%](img-sched/bg.png)
+![bg right:10%](img/bg.png)
 
 
 <div class="w3-row">
@@ -101,7 +108,7 @@ To provide a supportive and positive learning experience that empowers members t
 
 ---
 
-![bg right:10%](img-sched/bg.png)
+![bg right:10%](img/bg.png)
 
 # History 
 
@@ -134,7 +141,7 @@ timeline
 
 ---
 
-![bg right](img-sched/flag.jpeg)
+![bg right](img/flag.jpeg)
 
 <button>
 
@@ -164,7 +171,7 @@ and democracy for all
 
 <div class="w3-center">
 
-![](img-sched/sultan-wp.jpg)
+![](img/sultan-wp.jpg)
 
 </div>
 As a member of Sultan Toastmasters Club, I promise to attend meetings regularly;
