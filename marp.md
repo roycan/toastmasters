@@ -36,11 +36,6 @@ Chartered
 
 ---
 
-<!-- _footer: _ -->
-
-![w:1000px](img/program.png)
-
----
 
 
 
