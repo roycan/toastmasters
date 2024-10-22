@@ -63,6 +63,21 @@ Chartered
 
 ---
 
+# Important Links
+
+&nbsp;
+
+| Resource | Link |
+|---|---|
+| Schedule  | [bit.ly/SultanSched](https://bit.ly/SultanSched) | 
+| Pathways x DCP Tracker | [bit.ly/SultanTrack](https://bit.ly/SultanTrack) | 
+| Polls | [bit.ly/SultanPolls](https://bit.ly/SultanPolls) | 
+| Files Storage | [bit.ly/SultanStorage](https://bit.ly/SultanStorage) |
+| New FB Page |[https://web.facebook.com/profile.php?id=61567346494827](https://web.facebook.com/profile.php?id=61567346494827) |
+
+
+
+---
 
 
 ![bg right:10%](img/bg.png)
