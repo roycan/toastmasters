@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spring Forward - Toastmasters Journey</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --spring-green: #2ecc71;
+            --growth-yellow: #f1c40f;
+            --sky-blue: #3498db;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            transition: all 0.5s ease;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            height: 100vh;
+            overflow: hidden;
+            background: linear-gradient(160deg, #2c3e50 0%, #3498db 100%);
+            color: white;
+        }
+
+        .container {
+            width: 100vw;
+            height: 100vh;
+            padding: 2rem;
+            position: relative;
+        }
+
+        .slide {
+            position: absolute;
+            width: 80%;
+            left: 10%;
+            top: 50%;
+            transform: translateY(-50%);
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .slide.active {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            margin-bottom: 2rem;
+            text-shadow: 3px 3px 10px rgba(0,0,0,0.3);
+        }
+
+        p {
+            font-size: 1.8rem;
+            line-height: 1.6;
+            max-width: 800px;
+            font-weight: 300;
+        }
+
+        .visual-metaphor {
+            position: absolute;
+            opacity: 0.8;
+        }
+
+        #sun {
+            width: 400px;
+            height: 400px;
+            background: var(--growth-yellow);
+            border-radius: 50%;
+            top: -100px;
+            right: -100px;
+            box-shadow: 0 0 100px var(--growth-yellow);
+        }
+
+        #dcp {
+            width: 600px;
+            height: 400px;
+            background: var(--growth-yellow);
+            border-radius: 50%;
+            top: -100px;
+            right: -100px;
+            box-shadow: 0 0 100px var(--growth-yellow);
+        }
+
+        .progress-bar {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            height: 5px;
+            background: var(--spring-green);
+            transition: width 0.5s ease;
+        }
+
+        .nav-arrow {
+            position: fixed;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 4rem;
+            cursor: pointer;
+            opacity: 0.5;
+        }
+
+        .nav-arrow:hover { opacity: 1; }
+        #arrow-prev { left: 2rem; }
+        #arrow-next { right: 2rem; }
+    </style>
+</head>
+<body>
+    <div class="progress-bar"></div>
+    <div class="nav-arrow" id="arrow-prev">←</div>
+    <div class="nav-arrow" id="arrow-next">→</div>
+
+    <div class="container">
+        <!-- Slide 1: Opening -->
+        <div class="slide active" data-id="1">
+            <h1>🌱 Spring Forward 🌸</h1>
+            <p>Welcome to our season of awakening and growth</p>
+            <div class="visual-metaphor" id="sun">
+                <img src="image1.png" alt="Sun" width="400" height="400">
+            </div>
+        </div>
+
+        <!-- Slide 2: Seeds Planted -->
+        <div class="slide" data-id="2">
+            <h1>Planted Seeds</h1>
+            <p>Our past efforts are now ready to sprout</p>
+            <div class="visual-metaphor" id="dcp">
+                <img src="dcp.png" alt="DCP" width="600" height="400">
+            </div>
+        </div>
+
+        <!-- Slide 3: Awakening -->
+        <div class="slide" data-id="3">
+            <h1>🌞 New Dawn</h1>
+            <p>Breaking through comfort zones <br> like flowers through soil</p>
+            <div class="visual-metaphor" id="sun">
+                <img src="basecamp.png" alt="basecamp" width="400" height="400">
+            </div>
+        </div>
+
+        <!-- Slide 4: Club Goals -->
+        <div class="slide" data-id="4">
+            <h1>Reaching Upward</h1>
+            <p>Toward our DCP goals for education and membership</p>
+            <div class="visual-metaphor" id="sun">
+                <img src="image2.png" alt="tree" width="400" height="400">
+            </div>
+        </div>
+
+        <!-- Slide 5: Collective Growth -->
+        <div class="slide" data-id="5">
+            <h1>Together We Grow</h1>
+            <p>Like a garden thriving in harmony</p>
+            <div class="visual-metaphor" id="dcp">
+                <img src="zoom.png" alt="zoom" width="600" height="400">
+            </div>
+        </div>
+
+        <!-- Slide 6: Call to Action -->
+        <div class="slide" data-id="6">
+            <h1>Let's Spring Forward 🚀</h1>
+            <p>With enthusiasm, dedication, <br> and shared vision!</p>
+            <div class="visual-metaphor" id="dcp">
+                <img src="deepseek.png" alt="AI" width="600" height="400">
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const progressBar = document.querySelector('.progress-bar');
+
+        function updateSlide(newIndex) {
+            slides[currentSlide].classList.remove('active');
+            currentSlide = Math.max(0, Math.min(newIndex, slides.length - 1));
+            slides[currentSlide].classList.add('active');
+            progressBar.style.width = `${(currentSlide + 1)/slides.length * 100}%`;
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') updateSlide(currentSlide - 1);
+            if (e.key === 'ArrowRight') updateSlide(currentSlide + 1);
+        });
+
+        document.getElementById('arrow-prev').addEventListener('click', () => updateSlide(currentSlide - 1));
+        document.getElementById('arrow-next').addEventListener('click', () => updateSlide(currentSlide + 1));
+    </script>
+</body>
+</html>
